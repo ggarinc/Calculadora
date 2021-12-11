@@ -1,0 +1,9 @@
+D:\Cuatri\prog visual\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Cuatri\prog visual\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Cuatri\prog visual\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Cuatri\prog visual\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Cuatri\prog visual\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Cuatri\prog visual\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Cuatri\prog visual\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\Cuatri\prog visual\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Cuatri\prog visual\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
